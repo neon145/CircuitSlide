@@ -34,9 +34,3 @@ CircuitSlide (along with [Flutter](https://docs.flutter.dev/development/platform
 - Edge
 - Firefox
 
-
-
-### Desktop devices (Windows, macOS and Linux)
-If you want to install CircuitSlide on your desktop device, download it from the Github repository above with the name of your operating system.
-<br>
-<br>
