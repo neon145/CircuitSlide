@@ -12,10 +12,9 @@ CircuitSlide has been made to support both desktop and mobile devices. <br>
 <br>
 ## Gameplay
 CircuitSlide is easy enough to play.<br>
-A user would first start by clicking start button, followed by them clicking on tiles (or pressing the respective move keys from their keyboard) to move the tiles.<br> Using CircuitSlides `gameSolvabilityCheck` algorithm guarrantees all users that each game is 100% solvable.
-
-![image](https://user-images.githubusercontent.com/101563309/158167440-11d6e8ca-30bc-47e5-8568-9f210bdf12ac.png)
-
+A user would first start by clicking start button, followed by them clicking on tiles (or pressing the respective move keys from their keyboard) to move the tiles.<br> Using CircuitSlides `gameSolvabilityCheck` algorithm guarrantees all users that each game is 100% solvable.<br>
+Users can spice up the game by competing against the time they took to win, or perhaps the number of moves they required.<br>
+In a (_not-so-distant_) future version, a proper scoreboard will be added
 
 
 
@@ -51,29 +50,3 @@ To install CircuitSlide on your Android device (mobile), download it from the Gi
 If you want to install CircuitSlide on your desktop device, download it from the Github repository above with the name of your operating system.
 <br>
 <br>
-
-
-
-
-## License
-MIT License
-
-Copyright (c) 2022 neon145
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
