@@ -12,7 +12,7 @@ CircuitSlide has been made to support both desktop and mobile devices. <br>
 <br>
 ## Gameplay
 CircuitSlide is easy enough to play.<br>
-A user would first start by clicking start button, followed by them clicking on tiles (or pressing the respective move keys from their keyboard) to move the tiles.<br> Using CircuitSlides `gameSolvabilityCheck` algorithm guarrantees all users that each game is 100% solvable.<br>
+A user would first start by clicking start button, followed by them clicking on tiles (or pressing the respective move keys from their keyboard) to move the tiles.<br> Using CircuitSlides game-solvability-check algorithm guarrantees all users that each game is 100% solvable.<br>
 Users can spice up the game by competing against the time they took to win, or perhaps the number of moves they required.<br>
 In a (_not-so-distant_) future version, a proper scoreboard will be added
 
@@ -20,11 +20,10 @@ In a (_not-so-distant_) future version, a proper scoreboard will be added
 
 ## Installation
 
-CircuitSlide can be played across devices and operating systems alike. You could play CircuitSlide from your browser and entirely skip the installation hassle; or you can keep CircuitSlide for your very own by installing it on your device. <br><br>
-To install CircuitSlide on your local device, download it from the directory above with the name of your operating system (Android, Windows, macOS or Linux)
-<br>
-**Note: iOS is currently not supported!**
-<br>
+CircuitSlide has no limitations as to what operating system you're playing on... Because it's on the web!<br>
+For the convinience of all users with varying setup-environments, CircuitSlide - as of now - exists on the web at [circuitslide.project.flutter](https://flutter.dev).<br><br>
+But if you still wish to download CircuitSlide on your **Android device** you can take a look at the directory above labeled 'Android Build'
+<br><br>
 To play the CircuitSlide from the comforts of your browser, you would need to go to [circuitslide.project.flutter](https://flutter.dev).<br>
 It is recommended that you play from a desktop or mobile device for an optimum experience.<br>
 CircuitSlide (along with [Flutter](https://docs.flutter.dev/development/platform-integration/web#which-web-browsers-are-supported-by-flutter)) support the following browsers:
