@@ -21,9 +21,10 @@ In a (_not-so-distant_) future version, a proper scoreboard will be added
 ## Installation
 
 CircuitSlide can be played across devices and operating systems alike. You could play CircuitSlide from your browser and entirely skip the installation hassle; or you can keep CircuitSlide for your very own by installing it on your device. <br><br>
-To install CircuitSlide on your local device, download it from the directory above with the name of your operating system (iOS, Android, Windows, macOS or Linux)
+To install CircuitSlide on your local device, download it from the directory above with the name of your operating system (Android, Windows, macOS or Linux)
 <br>
-
+**Note: iOS is currently not supported!**
+<br>
 To play the CircuitSlide from the comforts of your browser, you would need to go to [circuitslide.project.flutter](https://flutter.dev).<br>
 It is recommended that you play from a desktop or mobile device for an optimum experience.<br>
 CircuitSlide (along with [Flutter](https://docs.flutter.dev/development/platform-integration/web#which-web-browsers-are-supported-by-flutter)) support the following browsers:
