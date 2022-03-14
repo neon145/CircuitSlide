@@ -20,9 +20,9 @@ In a (_not-so-distant_) future version, a proper scoreboard will be added
 
 ## Installation
 
-CircuitSlide can be played across devices and operating systems alike. You could play CircuitSlide from your browser and entirely skip the installation hassle; or you can keep CircuitSlide for your very own by installing it on your device. Check out some quick guides on the installation processes. <br>
+CircuitSlide can be played across devices and operating systems alike. You could play CircuitSlide from your browser and entirely skip the installation hassle; or you can keep CircuitSlide for your very own by installing it on your device. <br><br>
+To install CircuitSlide on your local device, download it from the directory above with the name of your operating system (iOS, Android, Windows, macOS or Linux)
 <br>
- ### Web/home/neon/Pictures/15.png
 
 To play the CircuitSlide from the comforts of your browser, you would need to go to [circuitslide.project.flutter](https://flutter.dev).<br>
 It is recommended that you play from a desktop or mobile device for an optimum experience.<br>
@@ -33,18 +33,7 @@ CircuitSlide (along with [Flutter](https://docs.flutter.dev/development/platform
 - Edge
 - Firefox
 
-### iPhones and other iOS devices (Mobile)
 
-To install CircuitSlide on your iOS device (mobile), download it from the Github repository above labeled 'iOS IPA build'.
-
--- images of github repo to be inserted over here --
-<br>
-<br>
-
-### Android devices (Mobile) 
-To install CircuitSlide on your Android device (mobile), download it from the Github repository above labled 'Android APK build'
-<br>
-<br>
 
 ### Desktop devices (Windows, macOS and Linux)
 If you want to install CircuitSlide on your desktop device, download it from the Github repository above with the name of your operating system.
