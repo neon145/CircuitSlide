@@ -1,2 +1,79 @@
-# CircuitSlide
-CircuitSlide flutter game
+# CircuitSlide 
+![image](https://user-images.githubusercontent.com/101563309/158162587-16cd1a87-55d6-4dbc-a070-16ba3762ab8c.png)
+
+CircuitSlide is a simple slide puzzle game. It combines the learning of circuitry and electronics in general with the joy of solving a tough puzzle.<br>
+<br>
+As of the current version, only a single level has been released; with respect to it being a prototype.<br> But more levels and features are expected to be released in the near future.<br>
+<br>
+CircuitSlide is also my first "Big" project using [Flutter](https://flutter.dev/).<br>
+CircuitSlide has been made to support both desktop and mobile devices. <br>
+[![image](https://user-images.githubusercontent.com/101563309/158166071-6b667e4d-cb2c-404a-ad85-837e5bd8b50b.png)](https://user-images.githubusercontent.com/101563309/158167440-11d6e8ca-30bc-47e5-8568-9f210bdf12ac.png)
+[![image](https://user-images.githubusercontent.com/101563309/158167210-b1743337-fefb-443f-acbe-55d7d66cee15.png)](https://user-images.githubusercontent.com/101563309/158167389-2484c525-bffe-4cee-92b9-9d8864d780e0.png)
+<br>
+## Gameplay
+CircuitSlide is easy enough to play.<br>
+A user would first start by clicking start button, followed by them clicking on tiles (or pressing the respective move keys from their keyboard) to move the tiles.<br> Using CircuitSlides `gameSolvabilityCheck` algorithm guarrantees all users that each game is 100% solvable.
+
+![image](https://user-images.githubusercontent.com/101563309/158167440-11d6e8ca-30bc-47e5-8568-9f210bdf12ac.png)
+
+
+
+
+## Installation
+
+CircuitSlide can be played across devices and operating systems alike. You could play CircuitSlide from your browser and entirely skip the installation hassle; or you can keep CircuitSlide for your very own by installing it on your device. Check out some quick guides on the installation processes. <br>
+<br>
+ ### Web/home/neon/Pictures/15.png
+
+To play the CircuitSlide from the comforts of your browser, you would need to go to [circuitslide.project.flutter](https://flutter.dev).<br>
+It is recommended that you play from a desktop or mobile device for an optimum experience.<br>
+CircuitSlide (along with [Flutter](https://docs.flutter.dev/development/platform-integration/web#which-web-browsers-are-supported-by-flutter)) support the following browsers:
+
+- Chrome
+- Safari
+- Edge
+- Firefox
+
+### iPhones and other iOS devices (Mobile)
+
+To install CircuitSlide on your iOS device (mobile), download it from the Github repository above labeled 'iOS IPA build'.
+
+-- images of github repo to be inserted over here --
+<br>
+<br>
+
+### Android devices (Mobile) 
+To install CircuitSlide on your Android device (mobile), download it from the Github repository above labled 'Android APK build'
+<br>
+<br>
+
+### Desktop devices (Windows, macOS and Linux)
+If you want to install CircuitSlide on your desktop device, download it from the Github repository above with the name of your operating system.
+<br>
+<br>
+
+
+
+
+## License
+MIT License
+
+Copyright (c) 2022 neon145
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
